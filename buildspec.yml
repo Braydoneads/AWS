@@ -8,4 +8,5 @@ phases:
 artifacts:
   files:
     - index.html
+    - costco.jpg
   discard-paths: yes
